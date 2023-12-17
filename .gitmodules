@@ -1,3 +1,6 @@
 [submodule "deps/MusicDecrypto"]
 	path = deps/MusicDecrypto
 	url = https://github.com/davidxuang/MusicDecrypto
+[submodule "deps/cli"]
+	path = deps/cli
+	url = https://git.unlock-music.dev/um/cli.git
